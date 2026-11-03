@@ -22,37 +22,38 @@
 | 10 | *Suggested:* Hydration & meals (water, isotonic, officials' lunch) | 1,500,000 |
 | 11 | *Suggested:* MC | 1,000,000 |
 | 12 | *Suggested:* Contingency (~5%) | 1,500,000 |
-| | **Total budget incl. suggestions** | **36,800,000** |
+| 13 | **PBPI sanction / supervision fee**: planning allowance, actual amount from PBPI DKI Jakarta `[TBC]` | 3,000,000 |
+| | **Total budget** | **39,800,000** |
 
-> Suggested amounts for items 9–12 are planning estimates. Replace them with real quotes.
+> Amounts for items 9–13 are planning estimates. Replace them with real quotes. **PBPI:** ask PBPI DKI Jakarta for the sanction fee and requirements, which may include licensed referees, player registration and reporting. Ask whether licensed referees are included in the fee or come on top of the Rp 4M referee budget.
 
 ### 1.2 Where the money comes from
 | Source | Amount (Rp) |
 |---|---:|
 | Registration fees: 16 pairs × Rp 700,000 | 11,200,000 |
-| **Needed from sponsors / investors** | **25,600,000** |
+| **Needed from sponsors / investors** | **28,600,000** |
 
 **Sponsorship tiers**
 
 | Tier | Price (Rp) | Slots |
 |---|---:|---|
-| Owning Sponsor | 25,000,000 | 1 (exclusive) |
-| Main Sponsor | 15,000,000 | 1 |
+| Owning Sponsor | 30,000,000 | 1 (exclusive) |
+| Main Sponsor | 20,000,000 | 1 |
 | Prize Pool Sponsor | 10,000,000 | 1 (or 2 × 5,000,000 Category) |
 | Supporting Partner | 5,000,000 | Up to 4 |
 | Official Partner | In-kind | Open |
 | Academy Founding Partner | Tailored | — |
 
-**Why 25 / 15 / 10 / 5 and not 35 / 25 / 10 / 5:** the gap is Rp 25.6M. Tiers of 35M and 25M would ask two sponsors for Rp 60M, which is more than double the need. They're also hard to justify for a first edition with about 150 people on site and no livestream. With these tiers, several combinations of partners close the gap:
+**Why 30 / 20 / 10 / 5:** the gap is Rp 28.6M after adding the PBPI fee allowance. With these tiers, several combinations of partners close it with a small buffer:
 
-| Funding path | Raised (Rp) | Gap left (Rp) |
+| Funding path | Raised (Rp) | Result (Rp) |
 |---|---:|---:|
-| A. Owning Sponsor alone | 25,000,000 | 600,000 |
-| B. Main + Prize Pool | 25,000,000 | 600,000 |
-| C. Prize Pool + 3 Supporting | 25,000,000 | 600,000 |
-| D. Owning + Prize Pool | 35,000,000 | surplus 9,400,000 |
+| A. Owning Sponsor alone | 30,000,000 | buffer 1,400,000 |
+| B. Main + Prize Pool | 30,000,000 | buffer 1,400,000 |
+| C. Prize Pool + 4 Supporting | 30,000,000 | buffer 1,400,000 |
+| D. Owning + Prize Pool | 40,000,000 | surplus 11,400,000 |
 
-The remaining Rp 0.6M comes from in-kind Official Partners (for example a ball brand covering Rp 0.8M of balls) or the contingency line. **Any surplus goes to the FAB Padel Club Academy junior programme** `[decision TBC]`.
+In-kind Official Partners (for example a ball brand covering Rp 0.8M of balls) add to the buffer. If PBPI quotes more than Rp 4.4M, path C no longer covers it, so revisit the tiers. **Any surplus goes to the FAB Padel Club Academy junior programme** `[decision TBC]`.
 
 **Selling order:** approach Owning Sponsor prospects first. If no one has signed by about 20 Nov, switch to path B or C. Ask for in-kind Official Partners in parallel: balls, drinks, a clinic for medical cover, a photographer for documentation. Each one reduces costs directly.
 
@@ -75,6 +76,7 @@ The remaining Rp 0.6M comes from in-kind Official Partners (for example a ball b
 | Tue 3 Nov 2026 | Plan & documents finalised; send investor/sponsor proposal | Muhammad Rizkyanda |
 | Mon 9 Nov 2026 | **Registration opens**; publish Info & Rules | `[TBC]` |
 | Fri 27 Nov 2026 | Sponsor/investor commitment deadline | `[TBC]` |
+| Fri 13 Nov 2026 | **Submit sanction/supervision request to PBPI DKI Jakarta**; confirm fee & requirements | Muhammad Rizkyanda |
 | Fri 4 Dec 2026 | Order jerseys (sizes from registration) and trophies & medals | `[TBC]` |
 | Fri 11 Dec 2026 | Prize pool funds received | `[TBC]` |
 | Sat 12 Dec 2026 | **Registration closes**; check all documents | `[TBC]` |
@@ -150,5 +152,6 @@ The remaining Rp 0.6M comes from in-kind Official Partners (for example a ball b
 | Power cut | Resume from exact score; confirm backup with building management |
 | Injury | Medic on site, 3-min medical time-out, nearest clinic/hospital address on the desk sheet `[TBC]` |
 | Age eligibility dispute | Documents checked at registration and again at check-in; Referee decides |
+| PBPI sanction delayed or fee higher than allowance | Submit by 13 Nov; if fee > Rp 4.4M, raise tiers or use contingency; if not granted in time, run as a club event under PBPI/FIP rules |
 | Jersey not ready / wrong sizes | Order by 4 Dec with spares in common sizes; confirm the vendor's delivery date by 17 Dec |
 | Parent misconduct | Code of conduct briefed at technical meeting; Director may remove persons from venue |

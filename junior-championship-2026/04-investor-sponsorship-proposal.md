@@ -46,7 +46,8 @@ We are inviting a small group of investors and partners to be part of this first
 2. **Reach families directly.** Junior sport puts your brand in front of parents, who make the household decisions, in a positive, healthy and community-focused setting.
 3. **Purpose-driven visibility.** Your support pays for what young athletes need: prize money, referees, medical care and jerseys. It is a credible way to show commitment to youth, health and sport.
 4. **More than one day.** The tournament launches a long-term Academy programme. Our top partners get first right to continue as **Academy Founding Partners** and to return for the 2027 edition.
-5. **Transparent and accountable.** Every partner receives a post-event report with photos, results and how the funds were used.
+5. **Officially supervised.** The tournament is being submitted for sanction and supervision by **PBPI**, the Indonesian padel federation. Your brand sits on an official, properly run junior event.
+6. **Transparent and accountable.** Every partner receives a post-event report with photos, results and how the funds were used.
 
 ---
 
@@ -54,14 +55,14 @@ We are inviting a small group of investors and partners to be part of this first
 
 | Package | Investment | Slots |
 |---|---:|---|
-| 👑 **Owning Sponsor** | **Rp 25,000,000** | 1 (exclusive) |
-| ⭐ **Main Sponsor** | **Rp 15,000,000** | 1 |
+| 👑 **Owning Sponsor** | **Rp 30,000,000** | 1 (exclusive) |
+| ⭐ **Main Sponsor** | **Rp 20,000,000** | 1 |
 | 🏆 **Prize Pool Sponsor** | **Rp 10,000,000** | 1 (or 2 × Category Sponsor at Rp 5,000,000) |
 | 🤝 **Supporting Partner** | **Rp 5,000,000** | Up to 4 |
 | 🎾 **Official Partner** *(in-kind)* | Products or services | Open |
 | 🌱 **Academy Founding Partner** | Tailored | Discussed one-to-one |
 
-### 👑 Owning Sponsor: Rp 25,000,000 (exclusive)
+### 👑 Owning Sponsor: Rp 30,000,000 (exclusive)
 The partner who owns the event. Your brand is part of the tournament name.
 - **Event naming:** "**[Brand] FAB Padel Junior Championship 2026**" on all materials, posts and announcements
 - **Logo on the chest of all 32 player jerseys** and staff shirts
@@ -74,7 +75,7 @@ The partner who owns the event. Your brand is part of the tournament name.
 - Insert in the participant pack
 - **First right** to become Academy Founding Partner and to own the 2027 edition
 
-### ⭐ Main Sponsor: Rp 15,000,000
+### ⭐ Main Sponsor: Rp 20,000,000
 - "**Main Sponsor: [Brand]**" on all materials
 - **Logo on the back of all player jerseys**
 - Large logo on the main backdrop and banners on both courts
@@ -155,12 +156,13 @@ For investors and brands who want to support youth padel beyond one day.
 | MC | 1,000,000 |
 | Contingency | 1,500,000 |
 | Match balls | 800,000 |
-| **Total event budget** | **36,800,000** |
+| PBPI sanction & supervision | 3,000,000 |
+| **Total event budget** | **39,800,000** |
 
 | Funding source | Amount (Rp) |
 |---|---:|
 | Player registration fees (16 pairs × Rp 700,000) | 11,200,000 |
-| **Sponsors & investors (needed)** | **25,600,000** |
+| **Sponsors & investors (needed)** | **28,600,000** |
 
 - **Prize Pool Sponsor funds go 100% to prize money** for the players.
 - **All other partner funds go to the event budget above.** In-kind partners reduce costs directly.

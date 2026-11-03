@@ -15,6 +15,8 @@ The FAB Padel Junior Championship 2026 is part of FAB Padel Club's mission to **
 
 The Academy is led by **Head Coach Kurnia Junaedi**.
 
+The tournament is being submitted for **sanction and supervision by PBPI** (the Indonesian padel federation) `[status TBC]`.
+
 Our goal is to give young players real competitive experience: proper match formats, referees and prizes, in a supportive setting where effort, sportsmanship and growth matter as much as results.
 
 ---
@@ -119,7 +121,7 @@ There is no third-place play-off. Both losing semi-finalists share 3rd place.
 ## 6. Scoring Rules
 
 ### 6.1 General
-- Matches are played under standard padel rules (FIP rules) unless stated otherwise in this document.
+- Matches are played under PBPI and FIP padel rules, unless this document states otherwise.
 - **Golden point** applies at deuce (40–40): one deciding point is played, and the **receiving pair chooses** which side to receive on.
 - Pairs change ends after the 1st game and then after every 2 games (odd games).
 
