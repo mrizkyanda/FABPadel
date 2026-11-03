@@ -7,22 +7,22 @@
 ## 1. Budget & Funding Plan
 
 ### 1.1 Event budget
-| # | Item | Amount (Rp) | Source |
-|---|---|---:|---|
-| 1 | Prize pool (U-14 + U-18) | 10,000,000 | Partner: **Prize Pool Partner** |
-| 2 | Court rent (2 courts, full day) | 5,000,000 | Partner: **Court Partner**, else registration fees |
-| 3 | Referees & officials | 4,000,000 | Partner: **Referee Partner** |
-| 4 | Jerseys (32 players + staff) | 4,000,000 | Partner: **Jersey Partner** |
-| 5 | Documentation (photo & video) | 3,000,000 | Partner: **Documentation Partner** |
-| 6 | Medical team & first aid | 2,000,000 | Partner: **Medical Partner** |
-| 7 | Production (backdrop, banners, sound, printing) | 2,000,000 | Partner: **Production Partner** |
-| 8 | Match balls (~22 tins) | 800,000 | Partner: **Ball Partner** (cash or in-kind), else registration fees |
-| | **Core budget** | **30,800,000** | |
-| 9 | *Suggested:* Trophies (4) & medals (16 + spare) | 2,000,000 | Partner: **Trophy & Medal Partner**, else registration fees |
-| 10 | *Suggested:* Hydration & meals (water, isotonic, officials' lunch) | 1,500,000 | Partner: **Hydration Partner** (cash or in-kind) |
-| 11 | *Suggested:* MC | 1,000,000 | Registration fees |
-| 12 | *Suggested:* Contingency (~5%) | 1,500,000 | Registration fees |
-| | **Total budget incl. suggestions** | **36,800,000** | |
+| # | Item | Amount (Rp) |
+|---|---|---:|
+| 1 | Prize pool (U-14 + U-18) | 10,000,000 |
+| 2 | Court rent (2 courts, full day) | 5,000,000 |
+| 3 | Referees & officials | 4,000,000 |
+| 4 | Jerseys (32 players + staff) | 4,000,000 |
+| 5 | Documentation (photo & video) | 3,000,000 |
+| 6 | Medical team & first aid | 2,000,000 |
+| 7 | Production (backdrop, banners, sound, printing) | 2,000,000 |
+| 8 | Match balls (~22 tins) | 800,000 |
+| | **Core budget** | **30,800,000** |
+| 9 | *Suggested:* Trophies (4) & medals (16 + spare) | 2,000,000 |
+| 10 | *Suggested:* Hydration & meals (water, isotonic, officials' lunch) | 1,500,000 |
+| 11 | *Suggested:* MC | 1,000,000 |
+| 12 | *Suggested:* Contingency (~5%) | 1,500,000 |
+| | **Total budget incl. suggestions** | **36,800,000** |
 
 > Suggested amounts for items 9–12 are planning estimates. Replace them with real quotes.
 
@@ -30,19 +30,33 @@
 | Source | Amount (Rp) |
 |---|---:|
 | Registration fees: 16 pairs × Rp 700,000 | 11,200,000 |
-| **Minimum needed from partners** (36.8M − 11.2M) | **25,600,000** |
-| Full partner target (all packages 1–10 sold) | 34,300,000 |
+| **Needed from sponsors / investors** | **25,600,000** |
 
-**How registration fees are used:** they first cover the MC and contingency (Rp 2.5M). They are also the **safety net** for any package that isn't sold. Court rent, balls and trophies are the first items to fall back on registration fees. If every package is sold, the remaining registration income is suggested to go to the **FAB Padel Club Academy junior programme** `[decision TBC]`.
+**Sponsorship tiers**
 
-**Funding priority** (secure in this order):
-1. **Prize Pool Partner, Rp 10M.** The prize pool is announced publicly, so it must be secured.
-2. **Referee Partner Rp 4M and Medical Partner Rp 2M.** Both are essential for safe, fair junior matches.
-3. **Jersey Partner Rp 4M.** The jersey is promised in the registration fee, and the order needs about 2 weeks.
-4. Documentation, Production, Trophy & Medal, Hydration.
-5. Court and Ball Partners. These are covered by registration fees if they aren't sold.
+| Tier | Price (Rp) | Slots |
+|---|---:|---|
+| Owning Sponsor | 25,000,000 | 1 (exclusive) |
+| Main Sponsor | 15,000,000 | 1 |
+| Prize Pool Sponsor | 10,000,000 | 1 (or 2 × 5,000,000 Category) |
+| Supporting Partner | 5,000,000 | Up to 4 |
+| Official Partner | In-kind | Open |
+| Academy Founding Partner | Tailored | — |
 
-> ⚠️ Partner commitment deadline: **Fri 27 Nov 2026**. Funds received by **Fri 11 Dec 2026**. **Jersey order: about Fri 4 Dec 2026** (production takes about 2 weeks). Registration stays open until 12 Dec, so order sizes for the pairs registered by 4 Dec, plus spare jerseys in common sizes for late registrants. Collect jersey sizes on the registration form.
+**Why 25 / 15 / 10 / 5 and not 35 / 25 / 10 / 5:** the gap is Rp 25.6M. Tiers of 35M and 25M would ask two sponsors for Rp 60M, which is more than double the need. They're also hard to justify for a first edition with about 150 people on site and no livestream. With these tiers, several combinations of partners close the gap:
+
+| Funding path | Raised (Rp) | Gap left (Rp) |
+|---|---:|---:|
+| A. Owning Sponsor alone | 25,000,000 | 600,000 |
+| B. Main + Prize Pool | 25,000,000 | 600,000 |
+| C. Prize Pool + 3 Supporting | 25,000,000 | 600,000 |
+| D. Owning + Prize Pool | 35,000,000 | surplus 9,400,000 |
+
+The remaining Rp 0.6M comes from in-kind Official Partners (for example a ball brand covering Rp 0.8M of balls) or the contingency line. **Any surplus goes to the FAB Padel Club Academy junior programme** `[decision TBC]`.
+
+**Selling order:** approach Owning Sponsor prospects first. If no one has signed by about 20 Nov, switch to path B or C. Ask for in-kind Official Partners in parallel: balls, drinks, a clinic for medical cover, a photographer for documentation. Each one reduces costs directly.
+
+> ⚠️ Partner commitment deadline: **Fri 27 Nov 2026**. Funds received by **Fri 11 Dec 2026**. **Jersey order: about Fri 4 Dec 2026** (production takes about 2 weeks). **Only sponsors confirmed by 4 Dec can have their logo on the jersey.** Registration stays open until 12 Dec, so order sizes for the pairs registered by 4 Dec, plus spare jerseys in common sizes for late registrants. Collect jersey sizes on the registration form.
 
 ### 1.3 Prize money breakdown
 | Position | U-14 | U-18 | Subtotal |
@@ -130,7 +144,7 @@
 
 | Risk | Mitigation |
 |---|---|
-| Prize pool not secured by deadline | Follow up investors weekly; fallback decision by 14 Dec |
+| Sponsorship target not reached by deadline | Follow up weekly; switch funding path by ~20 Nov; fallback decision (smaller prize pool) by 14 Dec |
 | Fewer than 8 pairs in a category | Waiting list, outreach to schools/coaches; if 6 pairs: 2 groups of 3; if 4–5: single round robin + final |
 | Schedule overruns | "Not before" times, early calls, ISHOMA buffer; Referee may shorten format |
 | Power cut | Resume from exact score; confirm backup with building management |

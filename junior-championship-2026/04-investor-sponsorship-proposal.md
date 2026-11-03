@@ -44,95 +44,98 @@ We are inviting a small group of investors and partners to be part of this first
 
 1. **Be a founding name in youth padel.** This is our first junior championship and the start of our Academy. Partners who join now are the founding partners of the story.
 2. **Reach families directly.** Junior sport puts your brand in front of parents, who make the household decisions, in a positive, healthy and community-focused setting.
-3. **Purpose-driven visibility.** Every package pays for something specific that young athletes need: prizes, referees, medical care, jerseys. Your support is visible and concrete.
-4. **More than one day.** The tournament launches a long-term Academy programme. Partners who join now have first right to continue as **Academy Founding Partners**.
-5. **Transparent and accountable.** Each package funds one budget item. Every partner receives a post-event report with photos and a summary of their brand exposure.
+3. **Purpose-driven visibility.** Your support pays for what young athletes need: prize money, referees, medical care and jerseys. It is a credible way to show commitment to youth, health and sport.
+4. **More than one day.** The tournament launches a long-term Academy programme. Our top partners get first right to continue as **Academy Founding Partners** and to return for the 2027 edition.
+5. **Transparent and accountable.** Every partner receives a post-event report with photos, results and how the funds were used.
 
 ---
 
-## 4. Partnership Packages
+## 4. Sponsorship Packages
 
-Each package funds **one specific part of the event**, so partners know exactly what their support pays for. Packages can be combined or tailored.
-
-| Package | Value | What it funds |
+| Package | Investment | Slots |
 |---|---:|---|
-| 🏆 **Prize Pool Partner** *(exclusive, or 2 × Category Partner at Rp 5,000,000)* | **Rp 10,000,000** | Full prize money for U-14 and U-18 |
-| 🎾 **Court Partner** | **Rp 5,000,000** | Both tournament courts for the full day |
-| 🧑‍⚖️ **Referee Partner** | **Rp 4,000,000** | Referees and match officials |
-| 👕 **Jersey Partner** | **Rp 4,000,000** | Official jerseys for all 32 players and staff |
-| 📸 **Documentation Partner** | **Rp 3,000,000** | Event photo and video documentation |
-| 🩺 **Medical Partner** | **Rp 2,000,000** | On-site medical team and first aid |
-| 🎤 **Production Partner** | **Rp 2,000,000** | Backdrop, banners, sound system and printing |
-| 🏅 **Trophy & Medal Partner** | **Rp 2,000,000** | Trophies and medals for all podium pairs |
-| 💧 **Hydration Partner** *(cash or in-kind)* | **Rp 1,500,000** | Drinking water, isotonic drinks, officials' meals |
-| 🎾 **Ball Partner** *(cash or in-kind)* | **Rp 800,000** | All match balls |
-| 🌱 **Academy Founding Partner** | **Tailored** | Long-term support for the FAB Padel Club Academy |
+| 👑 **Owning Sponsor** | **Rp 25,000,000** | 1 (exclusive) |
+| ⭐ **Main Sponsor** | **Rp 15,000,000** | 1 |
+| 🏆 **Prize Pool Sponsor** | **Rp 10,000,000** | 1 (or 2 × Category Sponsor at Rp 5,000,000) |
+| 🤝 **Supporting Partner** | **Rp 5,000,000** | Up to 4 |
+| 🎾 **Official Partner** *(in-kind)* | Products or services | Open |
+| 🌱 **Academy Founding Partner** | Tailored | Discussed one-to-one |
 
-### What each partner receives
+### 👑 Owning Sponsor: Rp 25,000,000 (exclusive)
+The partner who owns the event. Your brand is part of the tournament name.
+- **Event naming:** "**[Brand] FAB Padel Junior Championship 2026**" on all materials, posts and announcements
+- **Logo on the chest of all 32 player jerseys** and staff shirts
+- Largest logo on the main backdrop, banners on **both courts**, and logo on all trophies and medals
+- **Opening remarks** at the opening and the Academy launch
+- **Presents the Champion trophies** in both categories
+- MC mentions throughout the day
+- **3 dedicated @fabpadelclub posts** (announcement, match day and recap), plus a tag in every event post
+- Prime booth location at the club
+- Insert in the participant pack
+- **First right** to become Academy Founding Partner and to own the 2027 edition
 
-**🏆 Prize Pool Partner (Rp 10,000,000)**
-- Event naming: **"FAB Padel Junior Championship 2026, supported by [Partner]"**
-- Largest logo on the main backdrop, banners and all event materials
-- Logo on **all trophies** and on the prize boards
-- **Presents the prizes** at the awards ceremony
-- Short welcome remarks (about 2 min) at the opening and the Academy launch
-- MC mentions throughout the day, and dedicated posts on @fabpadelclub (before, during and after)
-- Booth or product display space at the club
-- First right to become **Academy Founding Partner**
+### ⭐ Main Sponsor: Rp 15,000,000
+- "**Main Sponsor: [Brand]**" on all materials
+- **Logo on the back of all player jerseys**
+- Large logo on the main backdrop and banners on both courts
+- **Presents the Runner-up trophies** in both categories
+- Regular MC mentions during the day
+- **2 dedicated @fabpadelclub posts**, plus a tag in event posts
+- Booth at the club
+- Insert in the participant pack
+- Second right to become Academy Founding Partner
 
-*Category Partner (Rp 5,000,000, 2 slots):* the same benefits for one category, as "U-14 / U-18 Category presented by [Partner]".
+### 🏆 Prize Pool Sponsor: Rp 10,000,000
+Funds the full prize money for both categories. **100% goes to the players.**
+- "**Prize money presented by [Brand]**"
+- **Logo on the prize boards** (giant cheques) and **presents the prize money** at the awards
+- **Logo on the jersey sleeve**
+- Medium logo on the main backdrop
+- MC mentions at the opening and the awards
+- **1 dedicated @fabpadelclub post**, plus a tag in the results post
+- Booth at the club
 
-**🎾 Court Partner (Rp 5,000,000)**
-- Court naming for the day: **"[Partner] Court 1 & Court 2"**
-- Logo banners on both courts, seen in every match photo
-- MC mentions with each match call on court
-- Logo on the main backdrop and social media posts
+*Category Sponsor option (Rp 5,000,000 each, 2 slots):* the same benefits for one category, as "U-14 / U-18 prizes presented by [Brand]".
 
-**🧑‍⚖️ Referee Partner (Rp 4,000,000)**
-- "Officiating supported by [Partner]"
-- Logo on referee and official shirts
-- MC mention at the opening and before the finals
-- Logo on the backdrop and social media posts
+### 🤝 Supporting Partner: Rp 5,000,000 (up to 4)
+Choose the area you want your name on: **Officiating**, **Medical & Safety**, **Documentation** or **Hydration**.
+- "**[Area] supported by [Brand]**", for example "Medical support by [Brand]" at the medical station
+- Logo on the main backdrop
+- 2 MC mentions during the day
+- Group thank-you post on @fabpadelclub
+- Insert in the participant pack
 
-**👕 Jersey Partner (Rp 4,000,000)**
-- **Logo on all 32 player jerseys** and staff shirts. Players keep the jersey, so the brand lives on after the event.
-- Logo on the backdrop and social media posts
-- MC mention
+### 🎾 Official Partner (in-kind)
+For brands that supply what the event uses: **padel balls, drinks, healthy snacks, medical services, photography, apparel or vouchers**.
+- "**Official [Product] Partner**", for example "Official Ball of the Championship"
+- Product display or sampling at the club
+- Small logo on the backdrop
+- 1 MC mention and a group thank-you post
 
-**📸 Documentation Partner (Rp 3,000,000)**
-- Logo credit on event photos and videos shared on @fabpadelclub
-- "Documentation by [Partner]" credit in the post-event recap
-- Logo on the backdrop
-
-**🩺 Medical Partner (Rp 2,000,000)**
-- Branded medical station: "Medical support by [Partner]"
-- MC mention during the safety briefing
-- Logo on the backdrop and social media posts
-
-**🎤 Production Partner (Rp 2,000,000)**
-- Logo on the main backdrop and stage area
-- MC mentions and a social media thank-you
-
-**🏅 Trophy & Medal Partner (Rp 2,000,000)**
-- Logo on medals and trophy plates (shared with the Prize Pool Partner)
-- Joins the awards ceremony on stage
-
-**💧 Hydration Partner (Rp 1,500,000, or in-kind)**
-- Branded hydration station and product sampling
-- Logo on the backdrop and an MC mention
-
-**🎾 Ball Partner (Rp 800,000, or in-kind)**
-- "Official ball of the FAB Padel Junior Championship 2026"
-- Product display and an MC mention
-
-**🌱 Academy Founding Partner (tailored, long-term)**
+### 🌱 Academy Founding Partner (tailored, long-term)
+For investors and brands who want to support youth padel beyond one day.
 - Recognition as a **Founding Partner of the FAB Padel Club Academy**, led by Head Coach Kurnia Junaedi
 - Ongoing brand presence at FAB Padel Club and in Academy programmes
-- Naming option for a junior scholarship or development squad (for example, "[Partner] Junior Scholarship")
+- Naming option for a junior scholarship or development squad (for example, "[Brand] Junior Scholarship")
 - Involvement in future junior tournaments and Academy events
 - *Details and investment to be discussed one-to-one.*
 
-**All partners** receive logo placement in line with their package level, a thank-you on @fabpadelclub, and the post-event Partner Report.
+### Benefits at a glance
+
+| Benefit | Owning | Main | Prize Pool | Supporting | Official |
+|---|:-:|:-:|:-:|:-:|:-:|
+| Brand in the event name | ✔ | | | | |
+| Logo on player jerseys | Chest | Back | Sleeve | | |
+| Main backdrop logo | XL | L | M | S | XS |
+| Banners on both courts | ✔ | ✔ | | | |
+| Logo on trophies & medals | ✔ | | | | |
+| On stage at the awards | Champions | Runners-up | Prize money | | |
+| Opening remarks | ✔ | | | | |
+| Dedicated @fabpadelclub posts | 3 | 2 | 1 | Group | Group |
+| Booth / display at the club | Prime | ✔ | ✔ | | Sampling |
+| Participant pack insert | ✔ | ✔ | | ✔ | |
+| First right for the Academy & 2027 | 1st | 2nd | | | |
+| Post-event Partner Report | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ---
 
@@ -157,10 +160,11 @@ Each package funds **one specific part of the event**, so partners know exactly 
 | Funding source | Amount (Rp) |
 |---|---:|
 | Player registration fees (16 pairs × Rp 700,000) | 11,200,000 |
-| **Partners & investors (needed)** | **25,600,000** |
+| **Sponsors & investors (needed)** | **25,600,000** |
 
-- **Partner funds go only to the item their package names.** For example, Prize Pool funds are 100% prize money for the players.
-- **Registration fees** cover the MC and contingency. They also cover any item that doesn't find a partner. If every package finds a partner, the remaining registration income goes to the **FAB Padel Club Academy junior programme**.
+- **Prize Pool Sponsor funds go 100% to prize money** for the players.
+- **All other partner funds go to the event budget above.** In-kind partners reduce costs directly.
+- **Any surplus** after the event is reinvested in the **FAB Padel Club Academy junior programme**.
 
 **Prize money breakdown**
 
@@ -189,7 +193,7 @@ Within two weeks of the tournament, each partner receives a **Partner Report** c
 |---|---|
 | Early November 2026 | Partnership discussions |
 | **Fri 27 November 2026** | **Partnership confirmation deadline** |
-| Fri 4 December 2026 | Logo files (vector or high-res) due for jersey and banner printing |
+| Fri 4 December 2026 | Logo files (vector or high-res) due for jersey and banner printing. **Jersey logos are only possible for partners confirmed by this date.** |
 | Fri 11 December 2026 | Partnership funds received |
 | Thu 17 December 2026 | Technical meeting with players and parents |
 | **Sat 19 December 2026** | **Tournament day & Academy launch** |
