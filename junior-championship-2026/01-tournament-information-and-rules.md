@@ -3,7 +3,7 @@
 
 **Organiser:** FAB Padel Club
 **Date:** Saturday, 19 December 2026 (one-day tournament)
-**Venue:** FAB Padel Club, indoor (2 semi-private courts), `[address TBC]`
+**Venue:** FAB Padel Club, indoor (2 semi-private courts), Jl. Lurah No.55, RT.2/RW.2, Gandaria, Kec. Kebayoran Lama, Jakarta Selatan, DKI Jakarta 12240
 **Categories:** U-14 (Court 1) and U-18 (Court 2)
 **Total prize pool:** Rp 10,000,000
 
@@ -12,6 +12,8 @@
 ## 1. About the Tournament
 
 The FAB Padel Junior Championship 2026 is part of FAB Padel Club's mission to **develop the next generation of Indonesian padel players**. The championship also marks the **launch of the FAB Padel Club Academy**, our youth-focused programme for developing young talent in a structured, safe and fun environment.
+
+The Academy is led by **Head Coach Kurnia Junaedi**.
 
 Our goal is to give young players real competitive experience: proper match formats, referees and prizes, in a supportive setting where effort, sportsmanship and growth matter as much as results.
 
@@ -22,7 +24,7 @@ Our goal is to give young players real competitive experience: proper match form
 | Item | Details |
 |---|---|
 | Date | Saturday, 19 December 2026 |
-| Venue | FAB Padel Club (indoor), `[address TBC]` |
+| Venue | FAB Padel Club (indoor), Jl. Lurah No.55, RT.2/RW.2, Gandaria, Kec. Kebayoran Lama, Jakarta Selatan, DKI Jakarta 12240 |
 | Categories | U-14: 8 pairs, Court 1 · U-18: 8 pairs, Court 2 |
 | Format | Group stage (2 groups of 4), then Semi-finals, then Final |
 | Group stage matches | First to 4 games |
@@ -68,7 +70,7 @@ Every player must submit a **Parent/Guardian Consent & Medical Declaration Form*
 | Fee | **Rp 700,000 per pair** |
 | Payment | Bank transfer to `[FAB Padel Club bank account TBC]` |
 | Confirmation | A place is confirmed only once payment and all documents are received |
-| Registration link / contact | `[form link / WhatsApp TBC]` |
+| Registration & enquiries | WhatsApp **0817 0247 666** (Muhammad Rizkyanda) · Instagram **@fabpadelclub** · registration form `[link TBC]` |
 
 **Quota:** 8 pairs per category, with places allocated **first paid, first served**. Further pairs go on a **waiting list**.
 
@@ -83,7 +85,7 @@ Every player must submit a **Parent/Guardian Consent & Medical Declaration Form*
 - After the draw, a pair that withdraws forfeits its place. The organiser may offer the place to the waiting list.
 - Registration fees are **non-refundable**, except if the organiser cancels the event. In that case fees are refunded in full.
 
-**Registration fee includes:** tournament participation, refereed matches, match balls, drinking water during matches, and `[participant pack / tournament shirt TBC]`.
+**Registration fee includes:** tournament participation, refereed matches, match balls, drinking water during matches, and an **official tournament jersey for each player**.
 
 ---
 
@@ -279,9 +281,12 @@ There will also be a short players' briefing during check-in on match day.
 ## 15. Contact
 
 **FAB Padel Club, Tournament Committee**
-Tournament Director: `[Name TBC]`
-WhatsApp: `[number TBC]`
-Instagram: `[@handle TBC]`
-Email: `[email TBC]`
+Contact person: **Muhammad Rizkyanda**
+WhatsApp: **0817 0247 666**
+Email: **rizkyandam@gmail.com**
+Instagram: **@fabpadelclub**
+Address: FAB Padel Club, Jl. Lurah No.55, RT.2/RW.2, Gandaria, Kec. Kebayoran Lama, Jakarta Selatan, DKI Jakarta 12240
+
+FAB Padel Club Academy Head Coach: **Coach Kurnia Junaedi**
 
 *FAB Padel Club: developing Indonesia's next generation of padel players.*

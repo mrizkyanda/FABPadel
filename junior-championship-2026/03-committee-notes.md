@@ -4,44 +4,53 @@
 
 ---
 
-## 1. Money Overview
+## 1. Budget & Funding Plan
 
-### 1.1 Funding sources
-| Source | Amount | Purpose |
-|---|---|---|
-| Registration fees: 16 pairs × Rp 700,000 | **Rp 11,200,000** | Event operations |
-| Investors / sponsors (Prize Pool Partner) | **Rp 10,000,000** | 100% to prize money |
-| Supporting / in-kind sponsors | `[TBC]` | Upgrades (trophies, participant packs, F&B) |
+### 1.1 Event budget
+| # | Item | Amount (Rp) | Source |
+|---|---|---:|---|
+| 1 | Prize pool (U-14 + U-18) | 10,000,000 | Partner: **Prize Pool Partner** |
+| 2 | Court rent (2 courts, full day) | 5,000,000 | Partner: **Court Partner**, else registration fees |
+| 3 | Referees & officials | 4,000,000 | Partner: **Referee Partner** |
+| 4 | Jerseys (32 players + staff) | 4,000,000 | Partner: **Jersey Partner** |
+| 5 | Documentation (photo & video) | 3,000,000 | Partner: **Documentation Partner** |
+| 6 | Medical team & first aid | 2,000,000 | Partner: **Medical Partner** |
+| 7 | Production (backdrop, banners, sound, printing) | 2,000,000 | Partner: **Production Partner** |
+| 8 | Match balls (~22 tins) | 800,000 | Partner: **Ball Partner** (cash or in-kind), else registration fees |
+| | **Core budget** | **30,800,000** | |
+| 9 | *Suggested:* Trophies (4) & medals (16 + spare) | 2,000,000 | Partner: **Trophy & Medal Partner**, else registration fees |
+| 10 | *Suggested:* Hydration & meals (water, isotonic, officials' lunch) | 1,500,000 | Partner: **Hydration Partner** (cash or in-kind) |
+| 11 | *Suggested:* MC | 1,000,000 | Registration fees |
+| 12 | *Suggested:* Contingency (~5%) | 1,500,000 | Registration fees |
+| | **Total budget incl. suggestions** | **36,800,000** | |
 
-> ⚠️ **The prize pool depends on investor/sponsor commitment.** Target: commitment signed by **Fri 27 Nov 2026** and funds received by **Fri 11 Dec 2026**. If it is not secured in time, decide on a fallback before the technical meeting. Options: reduce the prize pool, or partially fund it from registration income (which would leave Rp 1.2M for operations).
+> Suggested amounts for items 9–12 are planning estimates. Replace them with real quotes.
 
-### 1.2 Prize money breakdown
+### 1.2 Where the money comes from
+| Source | Amount (Rp) |
+|---|---:|
+| Registration fees: 16 pairs × Rp 700,000 | 11,200,000 |
+| **Minimum needed from partners** (36.8M − 11.2M) | **25,600,000** |
+| Full partner target (all packages 1–10 sold) | 34,300,000 |
+
+**How registration fees are used:** they first cover the MC and contingency (Rp 2.5M). They are also the **safety net** for any package that isn't sold. Court rent, balls and trophies are the first items to fall back on registration fees. If every package is sold, the remaining registration income is suggested to go to the **FAB Padel Club Academy junior programme** `[decision TBC]`.
+
+**Funding priority** (secure in this order):
+1. **Prize Pool Partner, Rp 10M.** The prize pool is announced publicly, so it must be secured.
+2. **Referee Partner Rp 4M and Medical Partner Rp 2M.** Both are essential for safe, fair junior matches.
+3. **Jersey Partner Rp 4M.** The jersey is promised in the registration fee, and the order needs about 2 weeks.
+4. Documentation, Production, Trophy & Medal, Hydration.
+5. Court and Ball Partners. These are covered by registration fees if they aren't sold.
+
+> ⚠️ Partner commitment deadline: **Fri 27 Nov 2026**. Funds received by **Fri 11 Dec 2026**. **Jersey order: about Fri 4 Dec 2026** (production takes about 2 weeks). Registration stays open until 12 Dec, so order sizes for the pairs registered by 4 Dec, plus spare jerseys in common sizes for late registrants. Collect jersey sizes on the registration form.
+
+### 1.3 Prize money breakdown
 | Position | U-14 | U-18 | Subtotal |
-|---|---|---|---|
+|---|---:|---:|---:|
 | Champion | 2,500,000 | 2,500,000 | 5,000,000 |
 | Runner-up | 1,500,000 | 1,500,000 | 3,000,000 |
 | Semi-finalists (2 × 500k) | 1,000,000 | 1,000,000 | 2,000,000 |
 | **Total** | **5,000,000** | **5,000,000** | **10,000,000** |
-
-### 1.3 Operations budget (funded by Rp 11.2M registration income)
-Fill in actual costs. Quantities are estimates.
-
-| Item | Qty / basis | Est. cost (Rp) |
-|---|---|---|
-| Court use: 2 courts × ~12 hrs (own venue, foregone bookings) | 24 court-hours | `[TBC]` |
-| Match balls: 1 tin per 2 group matches + new tin per SF/Final | ~18 tins + 4 spare = **22 tins** | `[TBC]` |
-| Tournament referee / director | 1 | `[TBC]` |
-| Court referees / officials | 2 (1 per court) + 1 reserve | `[TBC]` |
-| Medic / first-aid personnel + kit | 1 | `[TBC]` |
-| Trophies (Champion & Runner-up × 2 categories) | 4 | `[TBC]` |
-| Medals (2 per pair: champions, runners-up, semi-finalists) | 16 pcs (+2 spare) | `[TBC]` |
-| Drinking water / refill station | Full day | `[TBC]` |
-| Staff & officials meals | ~10 pax | `[TBC]` |
-| MC | 1 | `[TBC]` |
-| Printing: draw sheets, score sheets, banner, backdrop, certificates | — | `[TBC]` |
-| Participant pack / shirts (if included in fee) | 32 players | `[TBC]` |
-| Contingency (~10%) | — | `[TBC]` |
-| **Total operations** | | `[TBC]` (target ≤ Rp 11,200,000) |
 
 ---
 
@@ -49,10 +58,10 @@ Fill in actual costs. Quantities are estimates.
 
 | Date | Milestone | Owner |
 |---|---|---|
-| Tue 3 Nov 2026 | Plan & documents finalised; send investor/sponsor proposal | `[TBC]` |
+| Tue 3 Nov 2026 | Plan & documents finalised; send investor/sponsor proposal | Muhammad Rizkyanda |
 | Mon 9 Nov 2026 | **Registration opens**; publish Info & Rules | `[TBC]` |
 | Fri 27 Nov 2026 | Sponsor/investor commitment deadline | `[TBC]` |
-| Fri 4 Dec 2026 | Order trophies & medals (needs 1–2 weeks) | `[TBC]` |
+| Fri 4 Dec 2026 | Order jerseys (sizes from registration) and trophies & medals | `[TBC]` |
 | Fri 11 Dec 2026 | Prize pool funds received | `[TBC]` |
 | Sat 12 Dec 2026 | **Registration closes**; check all documents | `[TBC]` |
 | Mon 14 Dec 2026 | Confirm referees, medic, MC; seeding decided | `[TBC]` |
@@ -100,20 +109,20 @@ Fill in actual costs. Quantities are estimates.
 
 ## 5. Open Items to Confirm (`[TBC]` list)
 
+**Confirmed:** contact person Muhammad Rizkyanda (0817 0247 666, rizkyandam@gmail.com), Instagram @fabpadelclub, Academy Head Coach Kurnia Junaedi, venue address (Jl. Lurah No.55, Gandaria, Kebayoran Lama, Jakarta Selatan 12240), jersey included in the fee.
+
 | # | Item | Appears in |
 |---|---|---|
-| 1 | Venue address | Info & Rules §2, Proposal |
-| 2 | FAB Padel Club bank account for registration | Info & Rules §4 |
-| 3 | Registration form link / WhatsApp contact | Info & Rules §4 |
-| 4 | What the fee includes (shirt / participant pack?) | Info & Rules §4 |
-| 5 | Pair composition (boys, girls, mixed all allowed) | Info & Rules §3.1 |
-| 6 | Prize payout timeline (default 14 days) & tax treatment | Info & Rules §10 |
-| 7 | Online link for technical meeting | Info & Rules §12 |
-| 8 | Tournament Director name & contact, Instagram, email | Info & Rules §15, Proposal |
-| 9 | Ball brand | Committee §4, Proposal (in-kind) |
-| 10 | Final choice of rundown option (A recommended) | Rundown |
-| 11 | Sponsor package prices (suggested in proposal) | Proposal |
-| 12 | Operations cost figures | Committee §1.3 |
+| 1 | Bank account for registration payments | Info & Rules §4 |
+| 2 | Registration form link (must collect jersey sizes) | Info & Rules §4 |
+| 3 | Pair composition (boys, girls, mixed all allowed) | Info & Rules §3.1 |
+| 4 | Prize payout timeline (default 14 days) & tax treatment | Info & Rules §10 |
+| 5 | Online link for technical meeting | Info & Rules §12 |
+| 6 | Tournament Director & Tournament Referee names | Committee §3 |
+| 7 | Ball brand | Committee §4, Proposal (Ball Partner) |
+| 8 | Final choice of rundown option (A recommended) | Rundown |
+| 9 | Quotes for suggested items (trophies/medals, hydration, MC) | Committee §1.1 |
+| 10 | Use of surplus registration income (Academy programme?) | Committee §1.2, Proposal §5 |
 
 ---
 
@@ -127,4 +136,5 @@ Fill in actual costs. Quantities are estimates.
 | Power cut | Resume from exact score; confirm backup with building management |
 | Injury | Medic on site, 3-min medical time-out, nearest clinic/hospital address on the desk sheet `[TBC]` |
 | Age eligibility dispute | Documents checked at registration and again at check-in; Referee decides |
+| Jersey not ready / wrong sizes | Order by 4 Dec with spares in common sizes; confirm the vendor's delivery date by 17 Dec |
 | Parent misconduct | Code of conduct briefed at technical meeting; Director may remove persons from venue |
